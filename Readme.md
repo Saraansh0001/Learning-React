@@ -16,6 +16,6 @@ ReactDOM.createRoot sets up react
     we cant render multiple vars using render ,and we cant store multiple tags into 1 variable , for this we use div element
 
 how it makes it easierr ???? 
-1. no dom needed
+1. no dom needed ( more natural )
 2. unmatchig tags get noticed automatially + i ahve vs code extension so no rpoblrm at all
 3. we can inserted js code directly into jsx
