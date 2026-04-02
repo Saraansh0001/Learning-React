@@ -19,3 +19,17 @@ how it makes it easierr ????
 1. no dom needed ( more natural )
 2. unmatchig tags get noticed automatially + i ahve vs code extension so no rpoblrm at all
 3. we can inserted js code directly into jsx
+
+    compenent is just a peice of a website
+    syntax :- 
+        function ChatInput(){
+            // name should start from a captial letter
+            return();
+        }
+
+        <chatInput></ChatInput> // this is a compenent
+
+    this is the main idea of react, we can create our own tags and use them as components
+    in react , everything needs a closing tag , no matter what 
+
+we can return only 1 value , so we need a div everytime as a parent element
