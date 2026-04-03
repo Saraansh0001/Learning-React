@@ -33,3 +33,36 @@ how it makes it easierr ????
     in react , everything needs a closing tag , no matter what 
 
 we can return only 1 value , so we need a div everytime as a parent element
+
+// <> </>these are fragment which help us group thing together without nay extra div , only in react
+
+// <div>
+//   <input />
+//   <button>Send</button>
+// </div>
+// due to this , we have extra divs in out=r website , lets now study how we can remove thies divs  and the code simpler
+
+
+//props goes as input in a function in react and we can use it to pass data from one component to another component
+
+// function ChatMessages(props){
+
+// const message = props.message;
+// const {sender} = props;
+
+// const {message,sender} = props; 
+
+// this is called destructuring/deconstructing in js and it is used to extract values from an object and assign them to variables with the same name as the keys in the object
+
+// if (sender === "robot"){
+//   return(
+//   <div>
+//     <img src="robot.png" alt="User"  width="50" />
+//     {message}
+//   </div>
+// );
+// // }
+
+//shortcut for if statement in react , if sender is robot then only the image will be rendered otherwise it will not be rendered
+
+// <img src="user.png" alt="User"  width="50" />
