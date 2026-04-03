@@ -66,3 +66,11 @@ we can return only 1 value , so we need a div everytime as a parent element
 //shortcut for if statement in react , if sender is robot then only the image will be rendered otherwise it will not be rendered
 
 // <img src="user.png" alt="User"  width="50" />
+
+// the message attribute is the prop which we are passing to the chatmessage component and we can use it in the chatmessage component as props.message
+
+in react while displaying msg , the compenent requires id which is uniqe and is used to identify it
+
+state = data that is connected to html
+
+ // ...arrayName spread operator to copy the array messages & add new message to existing messages
