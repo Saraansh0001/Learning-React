@@ -76,3 +76,9 @@ state = data that is connected to html
  // ...arrayName spread operator to copy the array messages & add new message to existing messages
 
     react uses calss name to set class as class is itself a reserved keyword in js
+
+    we cant style frgament as they dont avr any name or can have ay classNams
+
+    {} is like an if else sattement used in my code to set class name vairable so that i donr have to write code twice m i have used ternary operator in this
+
+    
