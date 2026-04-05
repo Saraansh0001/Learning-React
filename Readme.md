@@ -74,3 +74,5 @@ in react while displaying msg , the compenent requires id which is uniqe and is 
 state = data that is connected to html
 
  // ...arrayName spread operator to copy the array messages & add new message to existing messages
+
+    react uses calss name to set class as class is itself a reserved keyword in js
