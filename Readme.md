@@ -81,4 +81,9 @@ state = data that is connected to html
 
     {} is like an if else sattement used in my code to set class name vairable so that i donr have to write code twice m i have used ternary operator in this
 
-    
+    hooks :- lets us insert react features into our components
+
+    useRef is used to store the react component  into a ref named box
+    useEfeect gets in use when something in updated or is clicked like send button in our chatbot
+
+    scrollTop = scollHeight means , from top how much to scroll ( till height )
