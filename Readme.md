@@ -87,3 +87,17 @@ state = data that is connected to html
     useEfeect gets in use when something in updated or is clicked like send button in our chatbot
 
     scrollTop = scollHeight means , from top how much to scroll ( till height )
+
+mkdir folderNamr is used to make a folder
+
+node jsFileName.js in termimnal helps to use js outside the browser
+
+create-vite helps us setup a new react project
+npx is used to downlaod and execute at same time
+
+folder inside chatbot-project and what they do ??
+src has all css and js code
+.jsx is react code
+asset has images
+public folder has file that public can use
+es.lint highlights error in our code !
