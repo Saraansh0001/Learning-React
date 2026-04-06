@@ -27,4 +27,4 @@ function ChatMessages({ chatMessages }) {
   );
 }
 
-export default ChatMessages;
+export default ChatMessages; // default export allows us to import without curly braces and we can rename it during import.

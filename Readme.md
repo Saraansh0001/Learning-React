@@ -105,3 +105,5 @@ es.lint highlights error in our code !
     strictmode gives us some addditional checks and warnings
 
     vite lets us inport any kinda file
+
+    default export doesnt require curly braces while export in start of func require curly braces and teh func we want
