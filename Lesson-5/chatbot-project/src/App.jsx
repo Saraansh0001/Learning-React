@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { ChatInput } from './components/ChatInput';
+import ChatMessages from './components/ChatMessages';
 import './App.css'
 
 function App() {
-  const [chatMessages, setChatMessages] = React.useState([{
+  const [chatMessages, setChatMessages] = useState([{
     message: 'hello chatbot',
     sender: 'user',
     id: 'id1'
