@@ -101,6 +101,8 @@ src has all css and js code
 asset has images
 public folder has file that public can use
 es.lint highlights error in our code !
+
+         ..
     
     strictmode gives us some addditional checks and warnings
 
